@@ -16,17 +16,14 @@
 - CPU Power Management
 - GPU Navi 23
 - USB Ports
-- Sleep/Wake
 - Wifi/BT
 
 # About
-![About](Docs/About.png)
-![About](Docs/About-Details.png)
 ![CPU](Docs/CPU-Info.png)
 ![GPU](Docs/GPU-Info.png)
 
 # Benchmark (GEEKBENCH 6)
-![CPU](Docs/CPU-Info.png)
+![CPU](Docs/CPU-Score.png)
 ![GPU Metal](Docs/Metal-Score.png)
 ![GPU OpenCL](Docs/OpenCl-Score.png)
 
