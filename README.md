@@ -39,5 +39,6 @@ Hint: Cpu renamed By [Cpu Rename]("https://github.com/corpnewt/CPU-Name")
 # WIFI/BT
 ![WIFI](Docs/Wifi.png)
 ![BT](Docs/Bluetooth.png)
+
 # USB Port Mapping
 ![USB Port Mapping](Docs/USB-Mapping.png)
